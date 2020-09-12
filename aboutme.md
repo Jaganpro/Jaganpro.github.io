@@ -23,8 +23,8 @@ title: About me
 
 ### My Certifications
 
-* Verifications available at https://trailhead.salesforce.com/credentials/verification
-* Search by Full Name: Jagannath Valaiyapathy
+* Verifications available at [Trailhead Verification](https://trailhead.salesforce.com/credentials/verification) 
+* Search by Full Name: `Jagannath Valaiyapathy`
   * Salesforce Certified Admin (SCA)
   * Salesforce Certified Platform App Builder
   * Salesforce Certified Developer I
