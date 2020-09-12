@@ -6,7 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: Salesforce Blog
+title: Jag Valaiyapathy
+
+# Short description of your site
+description: Salesforce Architect Notes
 
 # Your name to show in the footer
 author: Jag Valaiyapathy
