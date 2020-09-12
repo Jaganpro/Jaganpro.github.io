@@ -4,7 +4,7 @@ title: About me
 subtitle: Professional Experience
 ---
 
-* Jag is a Certified Application and System Architect in Salesforce platform who has played critical role in architecting, managing and delivering complex enterprise applications.He has deep knowledge in Salesforce best practices, Integration patterns, Salesforce Security, DevOps, LWC and SFDX.Jag has received multiple awards for the quality of his work and continues to be requested by name by each client he has done work for.
+* Jag is a Certified Application and System Architect in Salesforce platform who has played critical role in architecting, managing and delivering complex enterprise applications. He has deep knowledge in Salesforce best practices, Integration patterns, Salesforce Security, DevOps, LWC and SFDX. Jag has received multiple awards for the quality of his work and continues to be requested by name by each client he has done work for.
 
 ### Implementation Experience
 
@@ -21,5 +21,15 @@ subtitle: Professional Experience
   * Work.com (Novice)
 
 ### My Certifications
+
+* Salesforce Certified Admin (SCA)
+* Salesforce Certified Platform App Builder
+* Salesforce Certified Developer I
+* Salesforce Certified Development Lifecycle and Deployment Designer
+* Salesforce Certified Data Architecture and Management Designer
+* Salesforce Certified Integration Architecture Designer
+* Salesforce Certified Identity and Access Management Designer
+* Salesforce Certified Application Architect
+* Salesforce Certified System Architect
 
 
