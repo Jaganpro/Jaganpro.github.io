@@ -17,8 +17,8 @@ title: About me
   * Marketing Cloud (Intermediate)
   * Einstein Analytics Cloud (Intermediate)
   * Integration Cloud (Intermediate)
-  * Commerce Cloud (Novice)
-  * Field Service (Novice)
+  * CPQ & Commerce Cloud (Novice)
+  * Field Service Lightning (Novice)
   * Work.com (Novice)
 
 ### My Certifications
