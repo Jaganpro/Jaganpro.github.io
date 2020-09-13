@@ -19,6 +19,9 @@ author: Jag Valaiyapathy
 navbar-links:
   Home: "https://jaganpro.github.io/"
   About Me: "aboutme"
+  Blog: 
+  Download: 
+    - Architect Resources:
   Resources:
     - X: "https://beautifuljekyll.com"
     - Y: "https://www.markdowntutorial.com/"
