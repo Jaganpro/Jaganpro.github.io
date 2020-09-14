@@ -21,7 +21,7 @@ navbar-links:
   About Me: "aboutme"
   Blog: 
   Download: 
-    - Architect Resources
+    - Architect Resources:
   #Resources:
     #- X: "https://beautifuljekyll.com"
     #- Y: "https://www.markdowntutorial.com/"
