@@ -5,6 +5,9 @@
 
 # --- Required options --- #
 
+# Enforcing HTTPS
+url: https://thesalesforcearchitect.com
+
 # Name of website
 title: Jag Valaiyapathy
 
