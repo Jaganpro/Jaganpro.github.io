@@ -21,10 +21,10 @@ navbar-links:
   About Me: "aboutme"
   Blog: 
   Download: 
-    - Architect Resources:
-  Resources:
-    - X: "https://beautifuljekyll.com"
-    - Y: "https://www.markdowntutorial.com/"
+    - Architect Resources
+  #Resources:
+    #- X: "https://beautifuljekyll.com"
+    #- Y: "https://www.markdowntutorial.com/"
   
 
 # --- Logo --- #
