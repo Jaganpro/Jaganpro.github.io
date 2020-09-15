@@ -23,6 +23,8 @@ navbar-links:
   Home: "https://thesalesforcearchitect.com/"
   About Me: "aboutme"
   Tags: "https://thesalesforcearchitect.com/tags/"
+  Subscribe: "subscribe"
+  Search: "search"
   Download: 
     - Architect Resources:
   #Resources:
