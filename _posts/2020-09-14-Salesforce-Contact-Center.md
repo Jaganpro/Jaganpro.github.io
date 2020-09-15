@@ -23,6 +23,8 @@ comments: true
     * TollFree Support
     * DID Support
     * Outbound Call
+    * UIFN Support
+    * Call Quality Guarantee etc.
   * IVR(Interactive Voice Response)/ACD(Automatic Call Distribution)/Call Flow
   * Salesforce Features
     * SoftPhone Application
@@ -43,7 +45,7 @@ comments: true
 ## IVR/ACD/Contact Flows
 
 * Here are the list of IVR Patterns used across fortune 500 Companies.
-* The list below is aggregation of several call center IVR implementation patterns including `The New York Times`, `Intuit (TurboTax)`, `NewsCorp`, `American Express` and `Salesforce`. Thanks to Amazon ReInvent!
+* The list below is aggregation of several call center IVR implementation patterns including `The New York Times`, `Intuit (TurboTax)`, `NewsCorp`, `American Express` and `Salesforce`. Thanks to Amazon ReInvent Sessions! Increadibly helpful!
 
 | Feature | Description |
 |--|--|
