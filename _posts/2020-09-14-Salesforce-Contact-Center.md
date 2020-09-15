@@ -101,7 +101,7 @@ comments: true
 
 ## Why Amazon Connect?
 
-* I have attempted to consolidate all architecture topic here. Let me know in the comment section below if i have missed anything!
+* I have attempted to consolidate all of its features and advantages below. Let me know in the comment section if i have missed anything!
 * Also, given the scale and maturity of AWS, Amazon connect really shines in many architecture design aspects, which makes it easier to recommend this product.
 
 <p align="center">
@@ -210,9 +210,9 @@ comments: true
 ## Reference Links
 
 * Thats it folks! If you want to read more about `Service Cloud Voice`, i highly recommend these links from `Salesforce` and `AWS`
+  * [Service Cloud Voice Intro](https://www.youtube.com/watch?v=uvD97rlK57Q&feature=youtu.be)
+  * [Service Cloud Voice Demo from TrailheadDX](https://play.vidyard.com/UuFg1RNeFpgbig3PknjDjg)
+  * [Service Cloud Voice Pricing](https://www.salesforce.com/editions-pricing/service-cloud/voice/)
   * [AWS and Salesforce on Service Cloud Voice](https://www.salesforce.com/company/news-press/stories/2020/7/salesforce-service-cloud/)
   * [Service Cloud Voice News Press](https://www.salesforce.com/company/news-press/stories/2019/11/service-cloud-voice/)
   * [Amazon Connect Features](https://aws.amazon.com/connect/features/)
-  * [Service Cloud Voice Demo from TrailheadDX](https://play.vidyard.com/UuFg1RNeFpgbig3PknjDjg)
-  * [Service Cloud Voice Intro](https://www.youtube.com/watch?v=uvD97rlK57Q&feature=youtu.be)
-  * [Service Cloud Voice Pricing](https://www.salesforce.com/editions-pricing/service-cloud/voice/)
