@@ -2,7 +2,7 @@
 layout: post
 title: Salesforce Contact Center
 subtitle: Amazon Connect + Service Cloud Voice Architect Notes and Considerations
-tags: [Amazon Connect, Service Cloud Voice, Service Cloud]
+tags: [Amazon Connect, Service Cloud Voice, Service Cloud, Salesforce]
 comments: true
 ---
 
