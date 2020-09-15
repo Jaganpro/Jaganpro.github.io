@@ -41,7 +41,31 @@ comments: true
   
 ## Telephony Infrastructure
 
-* <More to add here!>
+* The scope of this can vary widely based on business requirements. Some Questions to consider:
+  * Is your Call Center based out of United States?
+  * Single Call Center vs Multi/Distributed Call Center
+  * Call Centers being Geographically distributed (Within or Outside US)
+  * CallCenter Business Hours (24/7 or 24/5.5 or 8/7 etc.)
+  * Does your Call Center need Toll-Free Support?
+  * Does your Call Center need DID and Outbound Call Support?
+
+* But Before we jump into talking about Telephony, we got to know few basic terminologies
+
+### What is a DID Number?
+* Direct Inward Dialing (DID) is a telephone service that allows a phone number to ring through directly to a specific phone at a business
+
+### What is a Toll-Free Number?
+* A toll-free telephone number or freephone number is a telephone number that is billed for all arriving calls instead of incurring charges to the originating telephone subscriber
+
+### What is ITFS?
+* International Toll-Free Service (ITFS) enables directly-dialled international calls to be made from fixed and mobile phones free of international charges to the callers. Full charges are paid by the called subscriber. Different ITFS numbers will be assigned for each country.
+
+### What is Universal International Freephone Number (UIFN)?
+* Universal International Freephone Number (UIFN) – one single unique number that can be dialed from different countries to reach the same customer.
+{: .box-warning} Warning: UIFN is not supported in all countries
+* List of Supported Countries as of Sep 2020: 
+  * https://www.itu.int/en/ITU-T/inr/unum/Pages/uifn-service-provider.aspx
+  * Note: Even if a country is supported with UIFN, not all carriers within the country is supported.
 
 ## IVR/ACD/Contact Flows
 
