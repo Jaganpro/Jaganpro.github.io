@@ -1,7 +1,11 @@
 ---
 layout: page
-title: About me
+title: Jag Valaiyapathy
+subtitle: Certified Salesforce System & Application Architect
+show-avatar: false
 ---
+
+<img width="516" alt="ProfilePic2" src="https://user-images.githubusercontent.com/2145211/93158865-09265800-f6db-11ea-88b3-737ef2df833f.png">
 
 ### Professional Experience
 
