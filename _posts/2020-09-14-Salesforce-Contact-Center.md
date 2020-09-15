@@ -101,6 +101,13 @@ comments: true
 
 ## Why Amazon Connect?
 
+* I have attempted to consolidate all of the points here. Let me know in the comment section below if i have missed anything!
+* Also, given the scale and maturity of AWS, Amazon connect really shines in many architecture design aspects, which makes it easy to recommend this product.
+
+<p align="center">
+  <img width="600" src="https://user-images.githubusercontent.com/2145211/93235911-30693d80-f74c-11ea-966b-c5ac04e7f63f.png">
+</p>
+
 | Platform | Topic | Feature | Description | Business Advantage |
 |--|--|--|--|--|
 |AWS|Infrastructure|Compliance|HIPAA Compliance|Provides compliance capability to handle calls with PII Information|
@@ -124,7 +131,8 @@ comments: true
 
 #### AWS Ecosystem
 
-* Please note that we are not required to use all of these services. But it is available to meet future business demands
+* Please note that we are not required to use all of these services. But it is available to meet future business demands.
+* Amazon Ecosystem advantage consolidated below:
 
 | AWS Service Name | Usage |
 |--|--|
@@ -141,9 +149,13 @@ comments: true
 
 ## Why Service Cloud Voice?
 
-* First Salesforce product to unify Voice, Digital Channels and Customer 360
+* First Salesforce attempt to unify Voice and all other Digital Channels!
 * Boost Agent Productivity with Intelligence (Einstein)
-* Deliver Omni-Channel Visibility to Supervisors 
+* Deliver Single pane of view Omni-Channel Visibility to Supervisors 
+
+<p align="center">
+  <img width="500" src="https://user-images.githubusercontent.com/2145211/93236270-9c4ba600-f74c-11ea-9b7e-73efda974e2c.png">
+</p>
 
 | Platform | Topic | Feature | Description | Business Advantage |
 |--|--|--|--|--|
@@ -155,22 +167,10 @@ comments: true
 |Salesforce| Service Cloud Voice| OmniChannel - Call Center Dashboard|View and Monitor Calls in Real Time| Provides Cockpit like Experience for Supervisors to monitor agents and Dashboards|
 |Salesforce| Service Cloud Voice| OmniChannel - Einstein Analytics|Integration with Service Cloud Analytics	Prebuilt Dashboards to bring all KPIs related to Call Center directly integrated from Voice|Provides Realtime & Historical Metrics|
 
-#### Service Cloud Analytics
-
-* On top of this, if we purchase `Service Cloud Analytics`, we should be able to enable the following dashboards OOTB.
-
-| Platform | Feature | Description |
-|--|--|--|
-| Salesforce | Call Volume | Shows the number of inbound calls versus outbound calls|
-| Salesforce | Average Handle Time | Shows the average amount of time an agent spends on a call| 
-| Salesforce | Average Speed To Answer | Shows the average amount of time a customer is waiting before an agent answers the call |
-| Salesforce | First Call Resolution (FCR) | Shows the resolution for the first call that a customer makes to the contact center |
-| Salesforce | Abandonment Rate | Shows the percentage of calls where the customer hands up before the agent answers the call |
-| Salesforce| Calls to Cases| Shows the number of calls that result in opening a case |
-
 ## IVR/ACD/Contact Flows
 
-* Here are the list of IVR Patterns used across fortune 500 Companies.
+* IVR/ACD/Contact Flows are big topics which demands a separate blog post by itself.
+* But, i have attempted to consolidate the list of common IVR Patterns used across fortune 500 Companies.
 * The list below is aggregation of several call center IVR implementation patterns including `The New York Times`, `Intuit (TurboTax)`, `NewsCorp`, `American Express` and `Salesforce`. Thanks to Amazon ReInvent Sessions! Increadibly helpful!
 
 | Feature | Description |
@@ -189,7 +189,34 @@ comments: true
 | Self Service actions without Agents Involvement | True Call Deflection. Identifying common scenarios agents takes call and providing automated options (Such as Reset Password) to be actioned with call without talking to Agents |
 |Call Identification | Identifying and Logging Location of the Caller based on Phone Number|
 |Wait Time | Estimated Wait Time in the Queue Calculation  |
-    
-* The nice thing about Contact Flows is that, there are starter templates available to be used for rapid prototyping
+
+<p align="center">
+  <img width=“500" src="https://user-images.githubusercontent.com/2145211/93236403-cbfaae00-f74c-11ea-9ec0-82e2f6a1eeb3.png">
+</p>
+
+* The nice thing about Contact Flows is that, there are starter templates available to be used for rapid prototyping provided by `Salesforce` and `Amazon`
   * [Sample Contact Flows](https://github.com/forcedotcom/service-cloud-doc/tree/master/Voice/ContactFlows)
   * [Amazon Connect Snippets](https://github.com/amazon-connect/amazon-connect-snippets)
+  
+## Service Cloud Analytics
+
+* On top of this, if we purchase `Service Cloud Analytics` license, we should be able to enable the following dashboards OOTB in Salesforce.
+
+| Platform | Feature | Description |
+|--|--|--|
+| Salesforce | Call Volume | Shows the number of inbound calls versus outbound calls|
+| Salesforce | Average Handle Time | Shows the average amount of time an agent spends on a call| 
+| Salesforce | Average Speed To Answer | Shows the average amount of time a customer is waiting before an agent answers the call |
+| Salesforce | First Call Resolution (FCR) | Shows the resolution for the first call that a customer makes to the contact center |
+| Salesforce | Abandonment Rate | Shows the percentage of calls where the customer hands up before the agent answers the call |
+| Salesforce| Calls to Cases| Shows the number of calls that result in opening a case |
+
+## Reference Links
+
+* Thats it folks! If you want to read more about `Service Cloud Voice`, i highly recommend these links from `Salesforce` and `AWS`
+  * [AWS and Salesforce on Service Cloud Voice](https://www.salesforce.com/company/news-press/stories/2020/7/salesforce-service-cloud/)
+  * [Service Cloud Voice News Press](https://www.salesforce.com/company/news-press/stories/2019/11/service-cloud-voice/)
+  * [Amazon Connect Features](https://aws.amazon.com/connect/features/)
+  * [Service Cloud Voice Demo from TrailheadDX](https://play.vidyard.com/UuFg1RNeFpgbig3PknjDjg)
+  * [Service Cloud Voice Intro](https://www.youtube.com/watch?v=uvD97rlK57Q&feature=youtu.be)
+  * [Service Cloud Voice Pricing](https://www.salesforce.com/editions-pricing/service-cloud/voice/)
