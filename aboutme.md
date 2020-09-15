@@ -5,7 +5,9 @@ subtitle: Certified Salesforce System & Application Architect
 show-avatar: false
 ---
 
-![ProfilePic2JPEG](https://user-images.githubusercontent.com/2145211/93159266-d7fa5780-f6db-11ea-9906-674e6d4249f0.jpg =300x)
+<p align="center">
+  <img width="300" height="250" src="https://user-images.githubusercontent.com/2145211/93159266-d7fa5780-f6db-11ea-9906-674e6d4249f0.jpg">
+</p>
 
 ### Professional Experience
 
