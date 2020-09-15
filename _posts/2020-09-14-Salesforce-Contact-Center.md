@@ -49,7 +49,7 @@ comments: true
   * Does your Call Center need Toll-Free Support?
   * Does your Call Center need DID and Outbound Call Support?
 
-* But Before we jump into talking about Telephony, we got to know few basic terminologies
+* But Before we jump into talking about Telephony, we got to clarify few basic terminologies:
 
 ### What is a DID Number?
 * Direct Inward Dialing (DID) is a telephone service that allows a phone number to ring through directly to a specific phone at a business
@@ -62,10 +62,31 @@ comments: true
 
 ### What is Universal International Freephone Number (UIFN)?
 * Universal International Freephone Number (UIFN) – one single unique number that can be dialed from different countries to reach the same customer.
+
 {: .box-warning} Warning: UIFN is not supported in all countries
+
 * List of Supported Countries as of Sep 2020: 
   * https://www.itu.int/en/ITU-T/inr/unum/Pages/uifn-service-provider.aspx
   * Note: Even if a country is supported with UIFN, not all carriers within the country is supported.
+  
+### How to choose between ITFS/UIFN/DTF?
+* I found this handy guide to help us decide when to use ITFS vs UIFN vs DTF
+
+<p align="center">
+  <img width="300" src="https://user-images.githubusercontent.com/2145211/93224676-5fc57d80-f73f-11ea-9943-0c0256d0bcc2.png">
+</p>
+
+* Source Credit: https://cdn.avoxi.com/wp-content/uploads/2018/11/eBook-Toll-Free-Numbers-Guide.pdf
+
+### How to provide support for TollFree number if existing or new Provider does not have native TollFree support?
+
+{: .box-warning} Warning: As of Sep 2020, Amazon Connect does not support Native TollFree Numbers from India and China
+
+* Given this conditions, we can use services such as Avoxi to create Virtual TollFree Numbers in India and China (For Example) and Call forward to any Location.
+* Once native support is available from AWS Connect or with Vonage, services from Avoxi can be deprecated for one-stop shop simplified billing.
+* Example Service Provider: https://www.avoxi.com/
+
+{: .box-note} Note: I am not affliated with Avoxi. If you find a better resource, please feel free to comment below
 
 ## IVR/ACD/Contact Flows
 
