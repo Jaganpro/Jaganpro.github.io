@@ -31,4 +31,29 @@ comments: true
     * Screen & Voice Recording
   * Analytics
   * WFM (Workforce Management)
+  
+## Telephony Infrastructure
+
+
+## IVR/ACD/Contact Flows
+
+* Here are the list of IVR Patterns used across fortune 500 Companies.
+* The list below is aggregation of several call center IVR implementation patterns including `The New York Times`, `Intuit (TurboTax)`, `NewsCorp`, `American Express` and `Salesforce`. Thanks to Amazon ReInvent!
+
+| Feature | Description |
+|--|--|
+|Language Support|Do our Call Center Support multi languages? If yes, options for caller to choose appropriate Language |
+|AI for Speech Recognition | Primarily used for Call deflections. Understanding user voice and route based on context configured |
+|Skill Based Routing Based on Call Flows| Based on Caller request, routing to appropriate Agent/Queue |
+|Data Dip in CallFlows from Salesforce| Uses AWS Lamda to dynamically lookup caller to provide intelligent routing |
+|Keypad or # for Selecting Menu| Caller Presses Numbers to select various options configured. Could be used for Entitlements/ Valet Service |
+|Business Hours| Automatic/Intelligent response when caller calls outside of business hours|
+|Confirm your Identity (Verification)| IVR Attempts to confirm you Identity so that Agents can focus on building relationships. (DOB or PII to lookup back into Salesforce) |
+|Welcome Message + Compliance Message| Standard Compliance Message for Call Recording Purpose and CFA Welcome Message |
+|CallBack Experience| When all agents are busy, caller can schedule time so that agents can call back |
+|Direct Inward Dial | Agents can provide DID with Extension to Callers to skip regular toll-free Number|
+|Survey After Call | IVR asks permission from caller to opt in for call experience/feedback|
+| Self Service actions without Agents Involvement | True Call Deflection. Identifying common scenarios agents takes call and providing automated options (Such as Reset Password) to be actioned with call without talking to Agents |
+|Call Identification | Identifying and Logging Location of the Caller based on Phone Number|
+|Wait Time | Estimated Wait Time in the Queue Calculation  |
     
