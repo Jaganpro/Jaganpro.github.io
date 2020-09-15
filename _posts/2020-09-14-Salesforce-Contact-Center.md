@@ -155,6 +155,19 @@ comments: true
 |Salesforce| Service Cloud Voice| OmniChannel - Call Center Dashboard|View and Monitor Calls in Real Time| Provides Cockpit like Experience for Supervisors to monitor agents and Dashboards|
 |Salesforce| Service Cloud Voice| OmniChannel - Einstein Analytics|Integration with Service Cloud Analytics	Prebuilt Dashboards to bring all KPIs related to Call Center directly integrated from Voice|Provides Realtime & Historical Metrics|
 
+#### Service Cloud Analytics
+
+* On top of this, if we purchase `Service Cloud Analytics`, we should be able to enable the following dashboards OOTB.
+
+| Platform | Feature | Description |
+|--|--|--|
+| Salesforce | Call Volume | Shows the number of inbound calls versus outbound calls|
+| Salesforce | Average Handle Time | Shows the average amount of time an agent spends on a call| 
+| Salesforce | Average Speed To Answer | Shows the average amount of time a customer is waiting before an agent answers the call |
+| Salesforce | First Call Resolution (FCR) | Shows the resolution for the first call that a customer makes to the contact center |
+| Salesforce | Abandonment Rate | Shows the percentage of calls where the customer hands up before the agent answers the call |
+| Salesforce| Calls to Cases| Shows the number of calls that result in opening a case |
+
 ## IVR/ACD/Contact Flows
 
 * Here are the list of IVR Patterns used across fortune 500 Companies.
@@ -177,4 +190,6 @@ comments: true
 |Call Identification | Identifying and Logging Location of the Caller based on Phone Number|
 |Wait Time | Estimated Wait Time in the Queue Calculation  |
     
-
+* The nice thing about Contact Flows is that, there are starter templates available to be used for rapid prototyping
+  * [Sample Contact Flows](https://github.com/forcedotcom/service-cloud-doc/tree/master/Voice/ContactFlows)
+  * [Amazon Connect Snippets](https://github.com/amazon-connect/amazon-connect-snippets)
