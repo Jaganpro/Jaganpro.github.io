@@ -122,7 +122,7 @@ comments: true
 | AWS | IVR/Contact Flow Builder | Customization | Ability to customize logic standard Lambda Function | Provides rapid development model to innovate faster due to standardization and wide support for common ecosystem (Example: Retrieve information from Salesforce to identify customer) |
 | AWS | IVR/Contact Flow Builder | Automatic Speech Recognition (ASR) +  Natural Language Processing (NLP) | Ability to process Natural Language and dynamically route based on Intent (Same technology powers Amazon Alexa) | Supports Future implementation of Voice deflection/Automated CallCenter for exceptional user experiences for Business |
 
-## AWS Ecosystem
+#### AWS Ecosystem
 
 * Please note that we are not required to use all of these services. But it is available to meet future business demands
 
@@ -139,6 +139,21 @@ comments: true
 |AWS CloudTrail|For Logging Amazon Connect|
 |AWS Contact Lens|For Sentiment Analysis, Keyword Analysis, Non-Talk Time|
 
+## Why Service Cloud Voice?
+
+* First Salesforce product to unify Voice, Digital Channels and Customer 360
+* Boost Agent Productivity with Intelligence (Einstein)
+* Deliver Omni-Channel Visibility to Supervisors 
+
+| Platform | Topic | Feature | Description | Business Advantage |
+|--|--|--|--|--|
+| Salesforce | Service Cloud Voice | OmniChannel - Experience | Truly Unifies Phone, Digital Channels and Data | Unified experience for Agents - No more separate Widgets for Voice and OmniChannel. Agent Status is tracked in single location (No Primary/Secondary Status Sync between Salesforce and 3rd Party Systems) |
+|Salesforce|Service Cloud Voice| OmniChannel - Skill Based Routing|			Routing Calls based on Agent Skills|Business can assign specific skills to agents| 
+|Salesforce|Service Cloud Voice| OmniChannel - Sentiment (QA)|				Realtime Sentiment Analysis|Provides Supervisors ability to listen/monitor right calls at the right time|
+|Salesforce|Service Cloud Voice|OmniChannel - Call Transcription (QA)|Realtime Call Transcription|All Calls are Transcribed  in Conversation Object and auto associated to Case & Contact Object|
+|Salesforce|Service Cloud Voice|OmniChannel - Whisper (QA)|Train/Coach Agents in RealTime|Provides Capability for Supervisors to coach agents by providing feedback in real-time|
+|Salesforce| Service Cloud Voice| OmniChannel - Call Center Dashboard|View and Monitor Calls in Real Time| Provides Cockpit like Experience for Supervisors to monitor agents and Dashboards|
+|Salesforce| Service Cloud Voice| OmniChannel - Einstein Analytics|Integration with Service Cloud Analytics	Prebuilt Dashboards to bring all KPIs related to Call Center directly integrated from Voice|Provides Realtime & Historical Metrics|
 
 ## IVR/ACD/Contact Flows
 
