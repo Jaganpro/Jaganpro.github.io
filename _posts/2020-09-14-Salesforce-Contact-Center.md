@@ -12,12 +12,17 @@ comments: true
 
 * That changed when [Amazon Connect](https://aws.amazon.com/connect/) and [Service Cloud Voice](https://www.salesforce.com/products/service-cloud/solutions/call-center-management/) was introduced in Summer '20.
 
-* This is the first time Telephony is getting a huge upgrade!
+* This is the first time Telephony is getting a huge upgrade! And that's really exciting!
+
+* Based on the Business requirements, i have gathered the following topics needed for Contact Center Implementation.
 
 ## Project Scope
 
-* Project Scope can be broadly classified into the following topics
+* Project Scope can be broadly classified into the following topics:
   * Telephony Infrastructure
+    * TollFree Support
+    * DID Support
+    * Outbound Call
   * IVR(Interactive Voice Response)/ACD(Automatic Call Distribution)/Call Flow
   * Salesforce Features
     * SoftPhone Application
