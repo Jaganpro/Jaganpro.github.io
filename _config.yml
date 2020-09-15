@@ -103,10 +103,10 @@ keywords: "Salesforce, Architecture, Sales Cloud, Service Cloud, Marketing Cloud
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#ff5722"
-navbar-text-col: "#404040"
+navbar-col: "#ff7e67"
+navbar-text-col: "#006a71"
 navbar-border-col: "#DDDDDD"
-page-col: "#eeeeee"
+page-col: "#ecf4f3"
 text-col: "#264653"
 link-col: "#008AFF"
 hover-col: "#0085A1"
