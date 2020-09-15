@@ -77,19 +77,22 @@ comments: true
   <img width="300" src="https://user-images.githubusercontent.com/2145211/93224676-5fc57d80-f73f-11ea-9943-0c0256d0bcc2.png">
 </p>
 
-* Source Credit: [Toll Free Numbers Guide](https://cdn.avoxi.com/wp-content/uploads/2018/11/eBook-Toll-Free-Numbers-Guide.pdf) 
+* Credit: [Toll Free Numbers Guide](https://cdn.avoxi.com/wp-content/uploads/2018/11/eBook-Toll-Free-Numbers-Guide.pdf) 
 
 #### How to provide support for TollFree number if existing or new Provider does not have native TollFree support?
 
 {: .box-warning}
 **Warning:** As of Sep 2020, Amazon Connect does not support Native TollFree Numbers from India and China
 
+* If TollFree Number is not Supported OOTB for Amazon, It is possible to purchase external TollFree Number to bridge gap.
+* As of this writing (Sep 2020) 231 Countries are currently supported for Outbound Calls with Amazon Connect.
+  * Check out the latest offerings from Amazon Connect here: [Amazon Connect Pricing] (https://aws.amazon.com/connect/pricing/)
 * Given this conditions, we can use services such as Avoxi to create Virtual TollFree Numbers in India and China (For Example) and Call forward to any Location.
-* Once native support is available from AWS Connect or with Vonage, services from Avoxi can be deprecated for one-stop shop simplified billing.
+* Once native support is available from AWS Connect, services from Avoxi can be deprecated for one-stop shop simplified billing.
 * Example Service Provider: https://www.avoxi.com/
 
 {: .box-note}
-**Note:** I am not affliated with Avoxi. If you find a better resource, please feel free to comment below
+**Note:** I am not affliated with Avoxi. If you find a better resource, please feel free to comment below.
 
 ## IVR/ACD/Contact Flows
 
