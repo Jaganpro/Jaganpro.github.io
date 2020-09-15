@@ -190,10 +190,6 @@ comments: true
 |Call Identification | Identifying and Logging Location of the Caller based on Phone Number|
 |Wait Time | Estimated Wait Time in the Queue Calculation  |
 
-<p align="center">
-  <img width=“500" src="https://user-images.githubusercontent.com/2145211/93236403-cbfaae00-f74c-11ea-9ec0-82e2f6a1eeb3.png">
-</p>
-
 * The nice thing about Contact Flows is that, there are starter templates available to be used for rapid prototyping provided by `Salesforce` and `Amazon`
   * [Sample Contact Flows](https://github.com/forcedotcom/service-cloud-doc/tree/master/Voice/ContactFlows)
   * [Amazon Connect Snippets](https://github.com/amazon-connect/amazon-connect-snippets)
