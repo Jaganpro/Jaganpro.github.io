@@ -13,3 +13,22 @@ comments: true
 * That changed when [Amazon Connect](https://aws.amazon.com/connect/) and [Service Cloud Voice](https://www.salesforce.com/products/service-cloud/solutions/call-center-management/) was introduced in Summer '20.
 
 * This is the first time Telephony is getting a huge upgrade!
+
+## Project Scope
+
+* Project Scope can be broadly classified into the following topics
+  * Telephony Infrastructure
+  * IVR(Interactive Voice Response)/ACD(Automatic Call Distribution)/Call Flow
+  * Salesforce Features
+    * SoftPhone Application
+    * OmniChannel Setup
+    * Queue (or) External (or) Skill Based Routing
+    * Real-Time Transcription
+    * Next Best Actions (Automatic Suggestion based on Business Process)
+  * QM (Quality Management)
+    * Interactive Coaching (Whisper)
+    * Accessing Call Recordings from Cases
+    * Screen & Voice Recording
+  * Analytics
+  * WFM (Workforce Management)
+    
