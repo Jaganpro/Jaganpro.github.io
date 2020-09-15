@@ -9,7 +9,7 @@ comments: true
 ## Contact Center Implementation
 
 {: .box-note}
-**Note:** All of my opinions here are my own and not affiliated to my current company i work for.
+**Note:** Opinions expressed here are my own and not affiliated to the current company i work for.
 
 * I have been heavily involved in helping our IT team and our business partners in choosing the right technology to re-implement Contact Center. Its been an exciting journey so far as i am learning so much along the way. On a high level, you are better off picking a cloud based technology stack and give more preference to vertical integration. This seems like a easy choice, but in the world of telephony, until recently, its been hard to implement 100% cloud based solution.
 
@@ -70,7 +70,7 @@ comments: true
 **Warning:** UIFN is not supported in all countries
 
 * List of Supported Countries as of Sep 2020: 
-  * https://www.itu.int/en/ITU-T/inr/unum/Pages/uifn-service-provider.aspx
+  * [Global UIFN Service Provide List](https://www.itu.int/en/ITU-T/inr/unum/Pages/uifn-service-provider.aspx) 
   * Note: Even if a country is supported with UIFN, not all carriers within the country is supported.
   
 #### How to choose between ITFS/UIFN/DTF?
@@ -89,10 +89,10 @@ comments: true
 
 * If TollFree Number is not Supported OOTB for Amazon, It is possible to purchase external TollFree Number to bridge gap.
 * As of this writing (Sep 2020) 231 Countries are currently supported for Outbound Calls with Amazon Connect.
-  * Check out the latest offerings from Amazon Connect here: [Amazon Connect Pricing] (https://aws.amazon.com/connect/pricing/)
+  * Check out the latest offerings from Amazon Connect here: [Amazon Connect Pricing](https://aws.amazon.com/connect/pricing/)
 * Given this conditions, we can use services such as Avoxi to create Virtual TollFree Numbers in India and China (For Example) and Call forward to any Location.
 * Once native support is available from AWS Connect, services from Avoxi can be deprecated for one-stop shop simplified billing.
-* Example Service Provider: https://www.avoxi.com/
+* Example Service Provider: [Avoxi](https://www.avoxi.com/) 
 
 {: .box-note}
 **Note:** I am not affliated with Avoxi. If you find a better resource, please feel free to comment below.
@@ -119,4 +119,4 @@ comments: true
 |Call Identification | Identifying and Logging Location of the Caller based on Phone Number|
 |Wait Time | Estimated Wait Time in the Queue Calculation  |
     
-* <More to add here!>
+
