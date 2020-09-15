@@ -30,7 +30,7 @@ show-avatar: false
 
 ### Certifications
 
-* Verifications are available [Trailhead](https://trailhead.salesforce.com/credentials/verification) 
+* Verifications are available @ [Trailhead](https://trailhead.salesforce.com/credentials/verification) 
 * Search by Full Name: `Jagannath Valaiyapathy`
   * Salesforce Certified Admin (SCA)
   * Salesforce Certified Platform App Builder
