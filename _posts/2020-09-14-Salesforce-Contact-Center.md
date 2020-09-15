@@ -126,8 +126,8 @@ comments: true
 
 * Please note that we are not required to use all of these services. But it is available to meet future business demands
 
-| AWS Service Name | Usage | Recommendation |
-|--|--|--|
+| AWS Service Name | Usage |
+|--|--|
 |AWS Directory Services |For Identity and Access Management|
 |AWS S3 Bucket|Data Storage and Retention|
 |AWS Lambda Functions|For Data Dips and other external Integration with Contact Flows|
