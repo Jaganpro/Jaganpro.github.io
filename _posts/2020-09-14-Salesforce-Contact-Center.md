@@ -101,8 +101,8 @@ comments: true
 
 ## Why Amazon Connect?
 
-* I have attempted to consolidate all of the points here. Let me know in the comment section below if i have missed anything!
-* Also, given the scale and maturity of AWS, Amazon connect really shines in many architecture design aspects, which makes it easy to recommend this product.
+* I have attempted to consolidate all architecture topic here. Let me know in the comment section below if i have missed anything!
+* Also, given the scale and maturity of AWS, Amazon connect really shines in many architecture design aspects, which makes it easier to recommend this product.
 
 <p align="center">
   <img width="600" src="https://user-images.githubusercontent.com/2145211/93235911-30693d80-f74c-11ea-966b-c5ac04e7f63f.png">
@@ -131,8 +131,8 @@ comments: true
 
 #### AWS Ecosystem
 
-* Please note that we are not required to use all of these services. But it is available to meet future business demands.
-* Amazon Ecosystem advantage consolidated below:
+* Please note that we are not required to use all of AWS services. But it is available, if needed, to meet future business demands.
+* Amazon Ecosystem advantage list consolidated below:
 
 | AWS Service Name | Usage |
 |--|--|
@@ -149,7 +149,7 @@ comments: true
 
 ## Why Service Cloud Voice?
 
-* First Salesforce attempt to unify Voice and all other Digital Channels!
+* Salesforce first attempt to unify Voice and all other Digital Channels as a Product
 * Boost Agent Productivity with Intelligence (Einstein)
 * Deliver Single pane of view Omni-Channel Visibility to Supervisors 
 
