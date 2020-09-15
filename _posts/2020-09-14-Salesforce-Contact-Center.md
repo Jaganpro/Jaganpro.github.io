@@ -9,7 +9,7 @@ comments: true
 ## Contact Center Implementation
 
 {: .box-note}
-**Note:** All of my opinions here are my own and not affiliated to my current company or position i work for.
+**Note:** All of my opinions here are my own and not affiliated to my current company i work for.
 
 * I have been heavily involved in helping our IT team and our business partners in choosing the right technology to re-implement Contact Center. Its been an exciting journey so far as i am learning so much along the way. On a high level, you are better off picking a cloud based technology stack and give more preference to vertical integration. This seems like a easy choice, but in the world of telephony, until recently, its been hard to implement 100% cloud based solution.
 
