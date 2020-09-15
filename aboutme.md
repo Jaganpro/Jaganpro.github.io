@@ -24,9 +24,9 @@ show-avatar: false
   * Einstein Analytics Cloud (Intermediate)
   * Integration Cloud (Intermediate)
   * myTrailhead (Intermediate)
-  * CPQ & Commerce Cloud (Novice)
+  * Commerce Cloud (Novice)
+  * CPQ (Novice)
   * Field Service Lightning (Novice)
-  * Work.com (Novice)
 
 ### Certifications
 
