@@ -4,6 +4,8 @@ title: Salesforce Contact Center Implementation using Service Cloud Voice
 subtitle: Amazon Connect + Service Cloud Voice Architect Notes and Considerations
 tags: [Amazon Connect, Service Cloud Voice, Service Cloud, Salesforce]
 comments: true
+nav-short: true
+readtime: true
 ---
 
 ## Contact Center Implementation
