@@ -15,7 +15,7 @@ readtime: true
 * Starting with Winter '21 - It is recommended to start using `Auto Layout` option when building Flow Solutions.
 
 <p align="center">
-  <img width=“500" src="https://user-images.githubusercontent.com/2145211/93279293-e6587a00-f794-11ea-8642-1713cea04d03.png">
+  <img width="500" src="https://user-images.githubusercontent.com/2145211/93279293-e6587a00-f794-11ea-8642-1713cea04d03.png">
 </p>
 
 ### Rule 2: Storing Records in Flows
@@ -24,7 +24,7 @@ readtime: true
 * In rare cases, we have to manually Assign Variables. This option exist only for backward compatibility.
 
 <p align="center">
-  <img width=“500" src="https://user-images.githubusercontent.com/2145211/93279426-38010480-f795-11ea-992e-f5e14d8d23db.png">
+  <img width="500" src="https://user-images.githubusercontent.com/2145211/93279426-38010480-f795-11ea-992e-f5e14d8d23db.png">
 </p>
 
 ### Rule 3: Consider Using Fault Connectors
@@ -35,7 +35,7 @@ readtime: true
 * Fault messages should be logged using available System Variables `{!$Flow.FaultMessage}`
 
 <p align="center">
-  <img width=“500" src="https://user-images.githubusercontent.com/2145211/93279335-fc663a80-f794-11ea-8016-0050200b87e0.png">
+  <img width="500" src="https://user-images.githubusercontent.com/2145211/93279335-fc663a80-f794-11ea-8016-0050200b87e0.png">
 </p>
 
 * Fault Connectors are applicable for both `ScreenFlow` and `AutoLaunch Flows`
@@ -72,7 +72,7 @@ readtime: true
 * It is preferred to use `Before Record Save Flow` for all Assignment configurations as it is 10X faster than next No-Code Solution available in Salesforce Platfrom.
 
 <p align="center">
-  <img width=“500" src="https://user-images.githubusercontent.com/2145211/93279716-f02ead00-f795-11ea-91e2-4b8d9aad6d09.png">
+  <img width="500" src="https://user-images.githubusercontent.com/2145211/93279716-f02ead00-f795-11ea-91e2-4b8d9aad6d09.png">
 </p>
 
 * If DML Operations are necessary on sObject, then `After Save Flows` can be used.
@@ -83,7 +83,7 @@ readtime: true
   * [Salesforce Architect Guide for Record Trigger Automation](https://salesforce.quip.com/VJfCAFhEBO0W)
 
 <p align="center">
-  <img width=“500" src="https://user-images.githubusercontent.com/2145211/93279992-9bd7fd00-f796-11ea-8c80-b1c02491099d.png">
+  <img width="500" src="https://user-images.githubusercontent.com/2145211/93279992-9bd7fd00-f796-11ea-8c80-b1c02491099d.png">
 </p>
 
 * This document is prepared by Salesforce Platform Team.
@@ -108,5 +108,5 @@ readtime: true
 * In this example below, you can see Assignment variables are meaningful to be easily understood by anyone.
 
 <p align="center">
-  <img width=“300" src="https://user-images.githubusercontent.com/2145211/93280209-0f7a0a00-f797-11ea-9a7b-b85687638add.png">
+  <img width="300" src="https://user-images.githubusercontent.com/2145211/93280209-0f7a0a00-f797-11ea-9a7b-b85687638add.png">
 </p>
