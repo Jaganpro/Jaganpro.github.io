@@ -94,10 +94,10 @@ readtime: true
 
 * Flows are even more powerful when they are extended using `Automation Components`
 * Automation Components are now officially adopted and supported by Salesforce Platform.
-  * https://github.com/trailheadapps/automation-components
+  * [TrailheadApps - Automation Components](https://github.com/trailheadapps/automation-components)
 * Before building custom solutions or components in flow, please check for any existing solutions from community.
-  * https://unofficialsf.com/flow-actions/
-  * https://unofficialsf.com/flow-screen-components/
+  * [Unofficial SF - Flow Actions]https://unofficialsf.com/flow-actions/
+  * [Unofficial SF - Flow Screen Components]https://unofficialsf.com/flow-screen-components/
 
 ### Rule 9: Bulkify Flows
 
