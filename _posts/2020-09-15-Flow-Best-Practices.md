@@ -108,5 +108,5 @@ readtime: true
 * In this example below, you can see Assignment variables are meaningful to be easily understood by anyone.
 
 <p align="center">
-  <img width="300" src="https://user-images.githubusercontent.com/2145211/93280209-0f7a0a00-f797-11ea-9a7b-b85687638add.png">
+  <img width="350" src="https://user-images.githubusercontent.com/2145211/93280209-0f7a0a00-f797-11ea-9a7b-b85687638add.png">
 </p>
