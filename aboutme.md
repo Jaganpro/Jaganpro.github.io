@@ -3,6 +3,7 @@ layout: page
 title: Jag Valaiyapathy
 subtitle: Certified Salesforce System & Application Architect
 show-avatar: false
+nav-short: true
 ---
 
 <p align="center">
