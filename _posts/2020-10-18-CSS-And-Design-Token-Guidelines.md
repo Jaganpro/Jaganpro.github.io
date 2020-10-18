@@ -18,7 +18,6 @@ readtime: true
 * Whenever we use a custom property we have to start with double dashes **--** . Otherwise the property would fail. `--lwc-` - This is used to scope `lwc` components.
 
 ```css
-
 //CSS Custom Property
 --lwc-colorBackground : rgb(243,242,242);
 
@@ -26,7 +25,6 @@ readtime: true
 .my-style {
   background-color : var(--lwc-colorBackground);
 }
-
 ```
 
 ## Rule 2: Please consider reusing CSS Classes from SLDS before creating new classes
@@ -64,7 +62,6 @@ readtime: true
 ## Rule 5: Be Deliberate with Design Tokens
 
 ```css
-
 //Wrong Usage
 .my-card {
   margin : var(--button-spacing);
@@ -169,7 +166,6 @@ readtime: true
   font-size: var(--lwc-fontSize5);
   margin-top: var(--lwc-spacingLarge);
 }
-
 ```
 * Never use `px` values. Use `rem`.
 * Width should never be part of CSS classes. This should be handled by SLDS Grid System. So we remove any width attributes inside CSS.
