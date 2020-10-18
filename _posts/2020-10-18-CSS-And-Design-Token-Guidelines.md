@@ -8,8 +8,6 @@ nav-short: true
 readtime: true
 ---
 
-## CSS and Design Token Guidelines
-
 ## Rule 1: Use Design Tokens whenever Applicable
 
 * Design Tokens provide systematic way to define properties (Ex: Color, Spacing, Sizing etc.)
