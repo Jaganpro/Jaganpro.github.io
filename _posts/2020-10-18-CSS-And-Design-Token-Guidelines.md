@@ -173,3 +173,8 @@ readtime: true
 ```
 * Never use `px` values. Use `rem`.
 * Width should never be part of CSS classes. This should be handled by SLDS Grid System. So we remove any width attributes inside CSS.
+
+# Additional Resources
+* Salesforce Lightning Design System: https://www.lightningdesignsystem.com/
+* Salesforce Lightning Components: https://developer.salesforce.com/docs/component-library/overview/components
+* Lightning Web Components: https://lwc.dev/
