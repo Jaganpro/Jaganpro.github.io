@@ -1,8 +1,7 @@
 ---
 layout: post
-title: CSS and Design Token Guidelines
-subtitle: CSS Best practices focussed around Lightning Design System
-tags: [SLDS, Salesforce, Platform]
+title: Lightning Design System CSS Best Practices
+tags: [SLDS, Salesforce, LightningDesignSystem]
 comments: true
 nav-short: true
 readtime: true
