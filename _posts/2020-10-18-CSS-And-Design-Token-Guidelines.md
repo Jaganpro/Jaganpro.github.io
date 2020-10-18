@@ -173,21 +173,3 @@ readtime: true
 ```
 * Never use `px` values. Use `rem`.
 * Width should never be part of CSS classes. This should be handled by SLDS Grid System. So we remove any width attributes inside CSS.
-
-## Rule 14: Override CSS with New Selectors
-* When Overriding CSS for certain Template elements, please use new CSS Selectors as documented here
-
-![image.png](/.attachments/image-7a81bd87-aba5-4fd4-be64-efdab3b0b508.png)
-
-* Please use the latest Selectors for the following elements:
-  * Navigation Menu
-  * Panels Container
-  * Record Banner
-  * Record Detail
-  * Record Layout
-  * Record List
-  * Record Related List
-  * Related Articles
-  * Reputation Leaderboard
-  * Embedded Service Sidebar Header
-  * Trending Articles by Topic
