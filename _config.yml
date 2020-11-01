@@ -23,7 +23,7 @@ navbar-links:
   Home: "https://thesalesforcearchitect.com/"
   Tags: "https://thesalesforcearchitect.com/tags/"
   About Me: "aboutme"
-  Download: 
+  Resources: 
     - Architect Resources: "https://thesalesforcearchitect.com/Architect-Resource/"
   #Resources:
     #- X: "https://beautifuljekyll.com"
