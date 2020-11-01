@@ -11,4 +11,4 @@ nav-short: true
   <img width="700" src="https://user-images.githubusercontent.com/2145211/97807581-a3147680-1c2f-11eb-803d-7b700a62285b.png">
 </p>
 
-* Download: (Salesforce Product Capability Matrix)[assets/Files/Salesforce Product Capability Map.pptx]
+* Download: [Salesforce Product Capability Matrix](assets/Files/Salesforce Product Capability Map.pptx)
