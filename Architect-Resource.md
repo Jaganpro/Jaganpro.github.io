@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Architect Resources
-subtitle: Certified Salesforce System & Application Architect
 show-avatar: false
 nav-short: true
 ---
