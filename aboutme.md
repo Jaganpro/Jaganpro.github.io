@@ -7,7 +7,7 @@ nav-short: true
 ---
 
 <p align="center">
-  <img width="300" height="300" src="assets/img/ProfilePic2021.jpg">
+  <img width="300" height="300" src="https://raw.githubusercontent.com/Jaganpro/Jaganpro.github.io/master/assets/img/ProfilePic2021.jpg">
 </p>
 
 ### Experience
