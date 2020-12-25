@@ -7,7 +7,7 @@ nav-short: true
 ---
 
 <p align="center">
-  <img width="300" height="250" src="https://user-images.githubusercontent.com/2145211/93159266-d7fa5780-f6db-11ea-9906-674e6d4249f0.jpg">
+  <img width="300" height="250" src="assets/img/ProfilePic2021.jpg">
 </p>
 
 ### Experience
